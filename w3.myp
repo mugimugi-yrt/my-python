@@ -1,0 +1,11 @@
+{
+  ten = 10;
+  one = 1;
+  sum = 0;
+  n = 10;
+  while (n == ten) {
+    sum = sum + n;
+    n = n + one;
+  };
+  print(sum);
+}

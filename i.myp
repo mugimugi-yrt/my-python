@@ -1,0 +1,14 @@
+{
+  n = 10;
+  m = 20;
+  if (n < m) {
+    print(n);
+  };
+  if (n > m) {
+    print(m);
+  };
+    if (n == m) {
+    print(n);
+    print(m);
+  };
+}
